@@ -1,0 +1,18 @@
+{
+  "id": 331,
+  "category": {
+    "id": 123,
+    "name": "test11"
+  },
+  "name": "Ozli",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
