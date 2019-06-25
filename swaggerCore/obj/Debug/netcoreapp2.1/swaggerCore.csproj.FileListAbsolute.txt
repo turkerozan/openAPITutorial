@@ -1,0 +1,14 @@
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\obj\Debug\netcoreapp2.1\swaggerCore.csprojAssemblyReference.cache
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\obj\Debug\netcoreapp2.1\swaggerCore.csproj.CoreCompileInputs.cache
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\obj\Debug\netcoreapp2.1\swaggerCore.RazorAssemblyInfo.cache
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\obj\Debug\netcoreapp2.1\swaggerCore.RazorAssemblyInfo.cs
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\obj\Debug\netcoreapp2.1\swaggerCore.AssemblyInfoInputs.cache
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\obj\Debug\netcoreapp2.1\swaggerCore.AssemblyInfo.cs
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\bin\Debug\netcoreapp2.1\swaggerCore.deps.json
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\bin\Debug\netcoreapp2.1\swaggerCore.runtimeconfig.json
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\bin\Debug\netcoreapp2.1\swaggerCore.runtimeconfig.dev.json
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\bin\Debug\netcoreapp2.1\swaggerCore.dll
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\bin\Debug\netcoreapp2.1\swaggerCore.pdb
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\obj\Debug\netcoreapp2.1\swaggerCore.RazorTargetAssemblyInfo.cache
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\obj\Debug\netcoreapp2.1\swaggerCore.dll
+C:\Users\Ozzy\Desktop\openApi\swaggerCore\obj\Debug\netcoreapp2.1\swaggerCore.pdb
